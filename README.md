@@ -1,1 +1,41 @@
-# literature_quiz_eng-
+<h1 align="center">Literature Quiz</h1>
+
+<h3>A fascinating quiz about world-famous writers</h3>
+
+
+
+## [Google Play](https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU)
+
+<a href="https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU" target="blank"><img align="center" src="https://lh3.googleusercontent.com/Mnn3W-HCNSJAYPqLSd4wHlgXRIfxNGuDc5Bh5bGcZbdhbVfRVi9pOGYJdS0bFBZ3908ovZWqrWu02lP1qDpOkmDVuqlBzn2griN9c3EvWeMDLRlx1MUF=s0" alt="https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU" height="50" width="80" /></a>
+</p>
+
+<h3>Literature Quiz App is an exciting mobile application that I've built using the FlutterFlow and Flutter. Firebase acts as the app's backend, providing authentication, database management, and cloud storage.
+
+This app features an intuitive user interface, with a responsive design that works seamlessly across multiple devices. I've incorporated a range of animations and visual effects to make the app more engaging and enjoyable to use.
+
+Developers can also access the app's admin panel to manage the app's content, such as adding or removing writers and questions. Additionally, I've included a level system and leaderboard to track users' progress and encourage social competition.
+
+Users can log in using their email and password or choose to create a guest account. I've also incorporated a dark mode feature that helps reduce eye strain and conserve battery life.
+
+Finally, the app includes AdMob, which displays ads within the app and helps generate revenue for the development team.</h3>
+
+## 1) Language 
+### - Dart
+
+## 2) Tools 
+### - FlutterFlow
+### - Flutter
+
+## 3) Features 
+### - Firebase
+### - Authentication
+### - Database
+### - Admin Panel
+### - Dark Mode
+### - Animation
+### - Leaderboard
+### - Level System
+### - Responsive Design
+### - Flutter Widgets
+### - Layout
+### - AdMob
