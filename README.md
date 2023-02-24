@@ -2,7 +2,7 @@
 
 <h3>A fascinating quiz about world-famous writers</h3>
 
-
+![artyrchik11_stack_of_books_at_the_table_light_bulb_cute_light_c_f5d724fa-311d-4c45-9a33-db08d920edcb (2) (1)](https://user-images.githubusercontent.com/88318279/221254597-00b3a1cc-777c-46e0-a27d-4a32b84f7eba.png)
 
 ## [Google Play](https://play.google.com/store/apps/details?id=com.literatureQuizEng.homeU)
 
