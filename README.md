@@ -30,16 +30,35 @@ Finally, the app includes AdMob, which displays ads within the app and helps gen
 # Registration
 
 
-<table>
-  <tr>
-    <th>Email</th>
-    <th>Guest</th>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/></td>
-    <td><img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/></td>
-  </tr>
-</table>
+<div style="display:flex; flex-wrap: wrap;">
+  <div style="flex-basis: 100%;">
+    <table>
+      <thead>
+        <tr>
+          <th>Email</th>
+          <th>Guest</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/></td>
+          <td><img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<style>
+  @media (min-width: 768px) {
+    table {
+      display: table;
+    }
+    table td, table th {
+      display: table-cell;
+    }
+  }
+</style>
 
 # Edit profile
 
