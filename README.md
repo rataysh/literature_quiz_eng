@@ -29,9 +29,17 @@ Finally, the app includes AdMob, which displays ads within the app and helps gen
 
 # Registration
 
-| *Email* | *Guest* |
-| :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/> | <img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/> |
+
+<table>
+  <tr>
+    <th>Email</th>
+    <th>Guest</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/></td>
+    <td><img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/></td>
+  </tr>
+</table>
 
 # Edit profile
 
