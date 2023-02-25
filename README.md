@@ -29,16 +29,49 @@ Finally, the app includes AdMob, which displays ads within the app and helps gen
 
 # Registration
 
-### Email
-<img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/>
-
-### Guest
-<img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/>
-
-
+<div style="display:flex">
+  <h2>Email</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/>
+  <h2>Guest</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/>
+</div>
 
 # Edit profile
 
 <img src="https://user-images.githubusercontent.com/88318279/221349194-b5285d63-7ba0-4fd3-be1c-fc8640ac1570.gif" alt="edit" height="600"/>
+
+# Games
+
+<div style="display:flex">
+  <h2>Guess the author</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221353535-5a78c4c7-1729-428c-98bf-826ae2e1e0f8.gif" alt="game1" height="600"/>
+  <h2>Guess from the picture</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221353537-1e2756a2-4695-4835-941b-456176308284.gif" alt="game2" height="600"/>
+   <h2>Hints</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221353703-84b60dd4-11e7-432c-addd-e97f4e2e5916.gif" alt="hints" height="600"/>
+</div>
+
+# Statistic
+
+<div style="display:flex">
+  <img src="https://user-images.githubusercontent.com/88318279/221352257-ceaab9e9-50e7-4780-a0af-cb6dfcdfda8f.gif" alt="stats1" height="600"/>
+  <img src="https://user-images.githubusercontent.com/88318279/221352260-bf2917bd-ae5d-4148-89a3-c100992218eb.gif" alt="stats2" height="600"/>
+</div>
+
+# Dark mode
+
+<img src="https://user-images.githubusercontent.com/88318279/221353159-4909c338-f439-40c0-b6f6-aa2a40480243.gif" alt="dark" height="600"/>
+
+# Admin panel
+
+<div style="display:flex">
+  <h2>Add writers</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221352788-39644cbd-4023-4447-a233-59d1544acbb0.gif" alt="admin1" height="600"/>
+  <h2>Add book</h2>
+  <img src="https://user-images.githubusercontent.com/88318279/221353101-d2e83c77-784a-48db-85bc-df846b05d02a.gif" height="600"/>
+</div>
+
+
+
 
 
