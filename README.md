@@ -20,31 +20,21 @@ Users can log in using their email and password or choose to create a guest acco
 Finally, the app includes AdMob, which displays ads within the app and helps generate revenue for the development team.</h3>
 
 ## 1) Language 
-### - Dart
+### Dart
 ## 2) Tools 
-### - FlutterFlow, Flutter
+### FlutterFlow, Flutter
 ## 3) Features 
-### - Firebase, Authentication, Database, Admin Panel, Dark Mode, Animation, Leaderboard, Level System, Responsive Design, Flutter Widgets, Layout, AdMob
+### Firebase, Authentication, Database, Admin Panel, Dark Mode, Animation, Leaderboard, Level System, Responsive Design, Flutter Widgets, Layout, AdMob
 
 
 # Registration
 
-<div style="display:flex; flex-wrap:wrap;">
-  <table style="display:block; width:100%;">
-    <thead>
-      <tr>
-        <th>Email</th>
-        <th>Guest</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/></td>
-          <td><img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+### Email
+<img src="https://user-images.githubusercontent.com/88318279/221347970-eb7b7868-cdfb-46cc-b026-7374f06dbca7.gif" alt="email" height="600"/>
+
+### Guest
+<img src="https://user-images.githubusercontent.com/88318279/221347887-529e1845-bd19-417d-b99e-c81c827c5f67.gif" alt="guest" height="600"/>
+
 
 
 # Edit profile
